@@ -1,0 +1,20 @@
+//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.debug.ui.presentation\tTorg.eclipse.jdt.ui.presentation\tTorg.eclipse.wst.sse.ui\tTorg.eclipse.pde.genericeditor.target.extension.presentation\tTorg.eclipse.compare.contentmergeviewer.TextMergeViewer\tTorg.eclipse.ui.presentation.default\tTorg.eclipse.mylyn.wikitext.ui.presentation
+ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.mylyn.wikitext.ui.presentation.textFont
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
+eclipse.preferences.version=1
+org.eclipse.compare.contentmergeviewer.TextMergeViewer=1|Arial Narrow|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow;
+org.eclipse.debug.ui.DetailPaneFont=1|Arial Narrow|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow;
+org.eclipse.debug.ui.VariableTextFont=1|Arial Narrow|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow;
+org.eclipse.mylyn.wikitext.ui.presentation.monospaceFont=1|Arial Narrow|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow;
+org.eclipse.mylyn.wikitext.ui.presentation.textFont=1|Arial Narrow|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow;
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands/>
+org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_END=255,255,255
+org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_START=255,255,255
+org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_TEXT_COLOR=16,16,16
+org.eclipse.ui.workbench.ACTIVE_TAB_BG_END=255,255,255
+org.eclipse.ui.workbench.ACTIVE_TAB_BG_START=255,255,255
+org.eclipse.ui.workbench.INACTIVE_TAB_BG_START=242,242,242
+org.eclipse.ui.workbench.TAB_TEXT_FONT=1|Arial Narrow|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow;
+org.eclipse.ui.workbench.TREE_TABLE_FONT=1|Arial Narrow|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow;
+org.eclipse.wst.sse.ui.textfont=1|Arial Narrow|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow;
